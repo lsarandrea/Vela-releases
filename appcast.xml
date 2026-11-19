@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Vela</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Thu, 19 Nov 2026 02:42:50 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/raw/main/Vela-1.1.dmg" length="5212000" type="application/octet-stream" sparkle:edSignature="KR46wa1YYRRFrKCm6hdTfyXTmyTyfuyLn6nev51C6zf1Uzy3hgtBuHaNbKKQXDewY0DtSo6ynFXfzHGb1176Cw=="/>
+        </item>
+    </channel>
+</rss>
