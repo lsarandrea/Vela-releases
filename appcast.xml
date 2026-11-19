@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/lsarandrea/Vela-releases/raw/main/Vela-1.1.dmg" length="5212000" type="application/octet-stream" sparkle:edSignature="KR46wa1YYRRFrKCm6hdTfyXTmyTyfuyLn6nev51C6zf1Uzy3hgtBuHaNbKKQXDewY0DtSo6ynFXfzHGb1176Cw=="/>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.1/Vela.dmg" length="5202635" type="application/octet-stream" sparkle:edSignature="4n7DLyvI3n97tQGrfDX2UWzorUBUzKDkoK+i/ssVANIMp+ibUE8gXAD7GKiO1V2onc3I727Ou2gJ0chFDy/2Cg=="/>
         </item>
     </channel>
 </rss>
