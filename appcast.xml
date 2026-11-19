@@ -3,6 +3,28 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Thu, 19 Nov 2026 03:17:59 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li>In <b>Generale</b> e in <b>Info</b> un avviso ricorda che Vela per iPhone e iPad è in sviluppo e arriverà quanto prima.</li>
+<li>Le note di rilascio compaiono nella finestra di aggiornamento di Vela.</li>
+</ul>
+<h2>Correzioni</h2>
+<ul>
+<li>Passando da un codice &quot;solo temi&quot; a Vela Pro, il codice precedente resta attivo finché quello nuovo non è stato accettato: senza connessione o con il limite di 3 dispositivi raggiunto non si perde più lo sblocco dei temi.</li>
+<li>Il passaggio a un profilo protetto da password dalla scheda Profilo chiede sempre la password (prima a volte non compariva).</li>
+<li>Il cursore sulla maniglia ≡ dei servizi non resta più bloccato a forma di mano.</li>
+<li>I fogli non appaiono più vuoti per un attimo mentre si chiudono.</li>
+<li>Sicurezza del server delle licenze migliorata.</li>
+</ul></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.2/Vela.dmg" length="5214474" type="application/octet-stream" sparkle:edSignature="JaCjkl/jvDH2Ue2MesdX124Qv0UJoKExfe3vNRnpzTbCHqNoq4F9jYRxgBvXbP3Ld1zozoqWg3GszSPD3Gc0BQ=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Thu, 19 Nov 2026 02:42:50 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
