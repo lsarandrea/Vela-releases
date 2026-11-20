@@ -3,6 +3,33 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.4</title>
+            <pubDate>Fri, 20 Nov 2026 22:10:18 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li>Aggiornamenti più tempestivi: Vela controlla all&#x27;avvio, ogni ora e quando torni sull&#x27;app.</li>
+<li>Quando c&#x27;è una nuova versione compare un pallino rosso sull&#x27;icona del profilo; aprendo il</li>
+</ul>
+<p>  profilo, in cima c&#x27;è <b>Riavvia e aggiorna</b> per installarla subito.</p>
+<ul>
+<li>Con Vela Pro la nuova versione si scarica da sola e si installa alla chiusura di Vela, senza</li>
+</ul>
+<p>  interrompere quello che stai guardando.</p>
+<h2>Correzioni</h2>
+<ul>
+<li><b>Riavvia e aggiorna</b> ora riavvia davvero Vela anche se le Impostazioni sono aperte (prima</li>
+</ul>
+<p>  l&#x27;app restava aperta e l&#x27;aggiornamento si vedeva solo alla riapertura).</p>
+<ul>
+<li>Lo stesso vale per <b>Riavvia Vela</b> dopo il cambio di lingua.</li>
+</ul></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.4/Vela.dmg" length="5462918" type="application/octet-stream" sparkle:edSignature="qJmAIhyQGqxzdwFFVO2g6KCSThZ9zozaFH+0aMFroDpJzv2pe1N5IRC/56krn/aumaYHq4HiGN+LnTDnHjV0DA=="/>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Fri, 20 Nov 2026 21:28:29 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -44,64 +71,6 @@
 </ul></body></html>
 ]]></description>
             <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.2/Vela.dmg" length="5214474" type="application/octet-stream" sparkle:edSignature="JaCjkl/jvDH2Ue2MesdX124Qv0UJoKExfe3vNRnpzTbCHqNoq4F9jYRxgBvXbP3Ld1zozoqWg3GszSPD3Gc0BQ=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Thu, 19 Nov 2026 02:42:50 +0100</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.1/Vela.dmg" length="5202635" type="application/octet-stream" sparkle:edSignature="4n7DLyvI3n97tQGrfDX2UWzorUBUzKDkoK+i/ssVANIMp+ibUE8gXAD7GKiO1V2onc3I727Ou2gJ0chFDy/2Cg=="/>
-            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
-<h3>Profili</h3>
-<ul>
-<li>All&#x27;avvio, se ci sono più profili, Vela chiede chi sta guardando.</li>
-<li>Ogni profilo ha il proprio tema, che si sceglie in <b>Modifica profilo</b>.</li>
-<li>Nuovo pulsante profilo nella barra: apre la scheda <b>Profilo</b> (nome, avatar, servizi, tema, password, cambio profilo) e la scheda <b>Generale</b> (Vela Pro, profili, sincronizzazione, guida, info). Sostituisce il vecchio pulsante delle impostazioni.</li>
-<li>Foto profilo: dopo la scelta si può spostare e ingrandire per inquadrarla.</li>
-<li>Nell&#x27;elenco dei servizi del profilo si possono modificare gli indirizzi, eliminarli e riordinarli trascinando la maniglia ≡.</li>
-<li>Modifica profilo su due colonne su Mac e iPad.</li>
-</ul>
-<h3>Servizi</h3>
-<ul>
-<li>Pagina iniziale con i servizi più usati da aggiungere con un tocco: Netflix, Prime Video, Disney+, RaiPlay, Mediaset Infinity, Plex, Pluto TV, Rakuten TV, Chili, Serially, Spotify.</li>
-<li>Il foglio <b>Modifica servizio</b> segue il tema e mostra subito <b>Rimuovi servizio</b>.</li>
-</ul>
-<h3>Temi</h3>
-<ul>
-<li>Tre temi: <b>Standard</b>, <b>Morbido</b> e <b>Vetro</b> (in stile Liquid Glass, con opacità regolabile).</li>
-<li>Nel tema Vetro il sito scorre dietro le barre trasparenti; i pulsanti restano più opachi e leggibili, e il servizio selezionato si riconosce dal fondo.</li>
-<li>Testi, icone e menu prendono i colori del tema, in chiaro e in scuro.</li>
-<li>Impostazioni e fogli ridisegnati per ogni tema.</li>
-</ul>
-<h3>Mac</h3>
-<ul>
-<li>Barra del titolo integrata nel tema.</li>
-<li>Mini player (Picture in Picture) con le proporzioni del video, senza bande, e un pulsante per tornare in Vela.</li>
-<li>AirPlay per inviare il video a una TV o a un Apple TV.</li>
-<li>Aggiornamenti dall&#x27;app (Impostazioni → Generale → Aggiornamenti).</li>
-</ul>
-<h3>iPhone e iPad</h3>
-<ul>
-<li>La rotazione dello schermo non ricarica più la pagina (niente più ritorno al login o video che riparte).</li>
-<li>I pulsanti dei servizi si toccano di nuovo per aprirli e modificarli; il trascinamento continua a funzionare.</li>
-<li>In modalità Desktop su iPad la barra dei siti (es. ricerca e accesso di YouTube) non finisce più sotto i pulsanti di Vela.</li>
-<li>Schermo intero senza la linea bianca in alto.</li>
-</ul>
-<h2>Vela Pro</h2>
-<p>Un solo pagamento (1,99 €), aggiornamenti futuri inclusi. Sblocca:</p>
-<ul>
-<li>servizi e profili illimitati (la versione gratuita ne permette 5 per profilo e 3 profili);</li>
-<li>il tema Vetro e i temi futuri;</li>
-<li>l&#x27;icona Vela Pro;</li>
-<li>la sincronizzazione cifrata di profili, servizi e temi tra iPhone, iPad e Mac;</li>
-<li>AirPlay;</li>
-<li>su Mac, il download e l&#x27;installazione automatici degli aggiornamenti.</li>
-</ul>
-<p>Ogni licenza vale fino a 3 dispositivi e si può disattivare da un dispositivo (per esempio prima di venderlo). È disponibile anche una donazione libera: sotto 1,99 € sblocca i temi.</p>
-<h2>Installazione</h2>
-<p>Apri <b>Vela.dmg</b> e trascina Vela in Applicazioni. Al primo avvio: Impostazioni di Sistema → Privacy e sicurezza → <b>Apri comunque</b>.</p></body></html>
-]]></description>
         </item>
     </channel>
 </rss>
