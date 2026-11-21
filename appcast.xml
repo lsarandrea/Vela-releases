@@ -3,6 +3,24 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.10</title>
+            <pubDate>Sat, 21 Nov 2026 13:08:41 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li>I profili si proteggono con un <b>PIN di 4 cifre</b> al posto della password: quattro caselle, il</li>
+</ul>
+<p>  tastierino numerico su iPhone e iPad, e si entra appena digitata l&#x27;ultima cifra.</p>
+<ul>
+<li>Chi ha ancora una vecchia password la inserisce un&#x27;ultima volta, poi Vela chiede di scegliere il PIN.</li>
+<li>&quot;PIN dimenticato?&quot;: sblocco con Touch ID, Face ID o la password del dispositivo.</li>
+</ul></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.10/Vela.dmg" length="5608071" type="application/octet-stream" sparkle:edSignature="EJ1OOzrw82ieOZ6/QwFQUinRExjB+nTm1sH/a3RvsyUA8yQzEspMYpPb1Neb4bJQyyvgvarkGucOOeDME9TbCQ=="/>
+        </item>
+        <item>
             <title>1.9</title>
             <pubDate>Sat, 21 Nov 2026 12:47:38 +0100</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -40,24 +58,6 @@
 <p>  successivo).</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.8/Vela.dmg" length="5519244" type="application/octet-stream" sparkle:edSignature="BTOi6V8hL3NNVgyPcSlDsCRMJgPRas3QYvKRrl4MwYIH41MxHQaXPoOj4fiFQWZuvvw6Ma3EtJrYWjQ6UmenCg=="/>
-        </item>
-        <item>
-            <title>1.7</title>
-            <pubDate>Sat, 21 Nov 2026 01:03:31 +0100</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
-<ul>
-<li>Il pulsante del profilo apre un menu con gli avatar dei profili: passa a un altro profilo con un tocco, oppure apri</li>
-</ul>
-<p>  <b>Impostazioni</b>, <b>Supporto</b> (guida, feedback, discussioni) e, sul Mac, <b>Aggiornamenti</b>, che</p>
-<p>  diventa <b>Riavvia e aggiorna</b> quando la nuova versione è già scaricata.</p>
-<ul>
-<li>Nelle Impostazioni, al posto di &quot;Cambia profilo&quot;, c&#x27;è <b>Invita un amico</b>.</li>
-</ul></body></html>
-]]></description>
-            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.7/Vela.dmg" length="5461611" type="application/octet-stream" sparkle:edSignature="CsCriVdPDlcSwPUZGCu4LAg25T/2OTQeefkKqhU915p97YV4s7WPSjtsy9tX8d8gG6j/1SD8sHq74IYU3cGZAw=="/>
         </item>
     </channel>
 </rss>
