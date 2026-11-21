@@ -3,6 +3,24 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.7</title>
+            <pubDate>Sat, 21 Nov 2026 01:03:31 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li>Il pulsante del profilo apre un menu con gli avatar dei profili: passa a un altro profilo con un tocco, oppure apri</li>
+</ul>
+<p>  <b>Impostazioni</b>, <b>Supporto</b> (guida, feedback, discussioni) e, sul Mac, <b>Aggiornamenti</b>, che</p>
+<p>  diventa <b>Riavvia e aggiorna</b> quando la nuova versione è già scaricata.</p>
+<ul>
+<li>Nelle Impostazioni, al posto di &quot;Cambia profilo&quot;, c&#x27;è <b>Invita un amico</b>.</li>
+</ul></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.7/Vela.dmg" length="5461611" type="application/octet-stream" sparkle:edSignature="CsCriVdPDlcSwPUZGCu4LAg25T/2OTQeefkKqhU915p97YV4s7WPSjtsy9tX8d8gG6j/1SD8sHq74IYU3cGZAw=="/>
+        </item>
+        <item>
             <title>1.6</title>
             <pubDate>Sat, 21 Nov 2026 00:38:15 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -34,33 +52,6 @@
 <p>  solo nel Dock ad app aperta.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.5/Vela.dmg" length="5413807" type="application/octet-stream" sparkle:edSignature="864twuvFi6Pzl4w3wn6+W1GHGnOZJnJxX+Zh5jrnz8ih2aCoGIyCyKfpdrU+yui9ELHguesI3Ow1LNlnZ7m4Ag=="/>
-        </item>
-        <item>
-            <title>1.4</title>
-            <pubDate>Fri, 20 Nov 2026 22:10:18 +0100</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
-<ul>
-<li>Aggiornamenti più tempestivi: Vela controlla all&#x27;avvio, ogni ora e quando torni sull&#x27;app.</li>
-<li>Quando c&#x27;è una nuova versione compare un pallino rosso sull&#x27;icona del profilo; aprendo il</li>
-</ul>
-<p>  profilo, in cima c&#x27;è <b>Riavvia e aggiorna</b> per installarla subito.</p>
-<ul>
-<li>Con Vela Pro la nuova versione si scarica da sola e si installa alla chiusura di Vela, senza</li>
-</ul>
-<p>  interrompere quello che stai guardando.</p>
-<h2>Correzioni</h2>
-<ul>
-<li><b>Riavvia e aggiorna</b> ora riavvia davvero Vela anche se le Impostazioni sono aperte (prima</li>
-</ul>
-<p>  l&#x27;app restava aperta e l&#x27;aggiornamento si vedeva solo alla riapertura).</p>
-<ul>
-<li>Lo stesso vale per <b>Riavvia Vela</b> dopo il cambio di lingua.</li>
-</ul></body></html>
-]]></description>
-            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.4/Vela.dmg" length="5462918" type="application/octet-stream" sparkle:edSignature="qJmAIhyQGqxzdwFFVO2g6KCSThZ9zozaFH+0aMFroDpJzv2pe1N5IRC/56krn/aumaYHq4HiGN+LnTDnHjV0DA=="/>
         </item>
     </channel>
 </rss>
