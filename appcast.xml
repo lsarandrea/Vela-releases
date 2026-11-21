@@ -3,6 +3,30 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.9</title>
+            <pubDate>Sat, 21 Nov 2026 12:47:38 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li><b>Profilo Bambini più sicuro</b></li>
+</ul>
+<p>  - Per crearlo serve prima una password sul tuo profilo adulto; gli altri profili adulti la</p>
+<p>    creano al primo accesso, e con un profilo Bambini la password degli adulti non si può togliere.</p>
+<p>  - Il bambino può aggiungere un servizio solo con la password di un adulto, e trova i servizi</p>
+<p>    pensati per i bambini della sua lingua (YouTube Kids, Netflix Kids, RaiPlay Yoyo, CBeebies…).</p>
+<p>  - Ogni servizio resta sul proprio sito: niente link verso altri siti né nuove finestre.</p>
+<p>  - Il bambino non può togliere &quot;Profilo Bambini&quot; né gestire i profili: serve sempre la password di</p>
+<p>    un adulto.</p>
+<ul>
+<li><b>Password dimenticata?</b> Il proprietario del dispositivo sblocca un profilo con Touch ID,</li>
+</ul>
+<p>  Face ID o la password del Mac / il codice dell&#x27;iPhone, poi può cambiarla in Impostazioni.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.9/Vela.dmg" length="5583992" type="application/octet-stream" sparkle:edSignature="Q+q2daWHR81S55d2B9qxsu/W7pJHKwhEBzu71hVk4pnNM4b8DKF0gpu4MqctDOpOez003pJFhnJHVUY2SPplBg=="/>
+        </item>
+        <item>
             <title>1.8</title>
             <pubDate>Sat, 21 Nov 2026 12:16:19 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -34,20 +58,6 @@
 </ul></body></html>
 ]]></description>
             <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.7/Vela.dmg" length="5461611" type="application/octet-stream" sparkle:edSignature="CsCriVdPDlcSwPUZGCu4LAg25T/2OTQeefkKqhU915p97YV4s7WPSjtsy9tX8d8gG6j/1SD8sHq74IYU3cGZAw=="/>
-        </item>
-        <item>
-            <title>1.6</title>
-            <pubDate>Sat, 21 Nov 2026 00:38:15 +0100</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
-<ul>
-<li><b>Invita un amico</b>: con Vela Pro hai 3 inviti da regalare. Nella pagina Vela Pro tocca</li>
-</ul>
-<p>  <b>Invita un amico</b> e condividi il link: chi lo apre riceve una sua licenza Vela Pro, gratis.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.6/Vela.dmg" length="5460172" type="application/octet-stream" sparkle:edSignature="t+So63J47d4nvxcBjxXpWU5kogxzVGh1nNP/oXYfW/k+mPNL+hyRD4zidgio5zEDQmtRvRU6rPACyiqsSQu5Dg=="/>
         </item>
     </channel>
 </rss>
