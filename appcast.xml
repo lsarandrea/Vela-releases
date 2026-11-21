@@ -4,6 +4,34 @@
         <title>Vela</title>
         <item>
             <title>1.11</title>
+            <pubDate>Sat, 21 Nov 2026 14:35:25 +0100</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li><b>Versioni beta</b>: in Generale → Aggiornamenti puoi attivare <b>Ricevi le versioni beta</b> per</li>
+</ul>
+<p>  provare le novità prima dell&#x27;uscita ufficiale.</p>
+<ul>
+<li>La pagina Aggiornamenti mostra anche il numero di build della versione installata.</li>
+<li>Il PIN del profilo si imposta subito sotto il nome, con <b>Imposta PIN</b> / <b>Modifica PIN</b> e le</li>
+</ul>
+<p>  quattro caselle; se c&#x27;è un profilo Bambini un avviso rosso ricorda che il PIN è obbligatorio.</p>
+<h2>Correzioni</h2>
+<ul>
+<li>Sul Mac eliminare un profilo o rimuovere un servizio bloccava la finestra: ora l&#x27;avviso si chiude e</li>
+</ul>
+<p>  il foglio si chiude correttamente.</p>
+<ul>
+<li>Sul Mac, nella richiesta del PIN, non compare più uno &quot;0&quot; azzurro tra le caselle.</li>
+</ul></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.11-beta.14/Vela.dmg" length="5638025" type="application/octet-stream" sparkle:edSignature="wG/j1I7agzycrxkNBk6VmZPTRFnnympbCoFr6cyHvrno97cX4mqpyY7/ubW7ODsfE+NI7EaG71MGKB+hzTB0BQ=="/>
+        </item>
+        <item>
+            <title>1.11</title>
             <pubDate>Sat, 21 Nov 2026 14:23:42 +0100</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>13</sparkle:version>
