@@ -3,6 +3,21 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.8</title>
+            <pubDate>Sat, 21 Nov 2026 12:16:19 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li>Nuova schermata <b>Chi sta guardando?</b>: sfondo animato con i colori dei profili, avatar più</li>
+</ul>
+<p>  grandi e, in basso, un suggerimento sull&#x27;uso di Vela che cambia ogni pochi secondi (tocca per il</p>
+<p>  successivo).</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.8/Vela.dmg" length="5519244" type="application/octet-stream" sparkle:edSignature="BTOi6V8hL3NNVgyPcSlDsCRMJgPRas3QYvKRrl4MwYIH41MxHQaXPoOj4fiFQWZuvvw6Ma3EtJrYWjQ6UmenCg=="/>
+        </item>
+        <item>
             <title>1.7</title>
             <pubDate>Sat, 21 Nov 2026 01:03:31 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -33,25 +48,6 @@
 <p>  <b>Invita un amico</b> e condividi il link: chi lo apre riceve una sua licenza Vela Pro, gratis.</p></body></html>
 ]]></description>
             <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.6/Vela.dmg" length="5460172" type="application/octet-stream" sparkle:edSignature="t+So63J47d4nvxcBjxXpWU5kogxzVGh1nNP/oXYfW/k+mPNL+hyRD4zidgio5zEDQmtRvRU6rPACyiqsSQu5Dg=="/>
-        </item>
-        <item>
-            <title>1.5</title>
-            <pubDate>Fri, 20 Nov 2026 23:43:14 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
-<ul>
-<li>Vela Pro si acquista con Stripe (carta, Apple Pay, Google Pay): il codice licenza compare</li>
-</ul>
-<p>  subito dopo il pagamento e arriva anche per email.</p>
-<h2>Modifiche</h2>
-<ul>
-<li>Sul Mac non c&#x27;è più la scelta dell&#x27;icona dell&#x27;app (resta su iPhone e iPad): macOS la cambiava</li>
-</ul>
-<p>  solo nel Dock ad app aperta.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.5/Vela.dmg" length="5413807" type="application/octet-stream" sparkle:edSignature="864twuvFi6Pzl4w3wn6+W1GHGnOZJnJxX+Zh5jrnz8ih2aCoGIyCyKfpdrU+yui9ELHguesI3Ow1LNlnZ7m4Ag=="/>
         </item>
     </channel>
 </rss>
