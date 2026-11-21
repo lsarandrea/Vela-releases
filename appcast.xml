@@ -3,6 +3,29 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.12</title>
+            <pubDate>Sat, 21 Nov 2026 15:15:14 +0100</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li>Scheda del profilo più pulita: i servizi si gestiscono da <b>Gestione servizi</b>, sopra il Tema, in una</li>
+</ul>
+<p>  pagina dedicata dove riordinarli, modificarli o eliminarli.</p>
+<ul>
+<li>Impostazioni su tre schede: <b>Profilo</b>, <b>Generale</b> (profili, sincronizzazione, lingua,</li>
+</ul>
+<p>  aggiornamenti) e <b>Aiuto</b> (guida, feedback, discussioni, informazioni).</p>
+<ul>
+<li>Con Vela Pro attivo il riquadro grande sparisce: resta un piccolo badge PRO accanto alle schede e la</li>
+</ul>
+<p>  voce &quot;Licenza e dispositivi&quot; in fondo a Generale.</p></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.12-beta.16/Vela.dmg" length="5670573" type="application/octet-stream" sparkle:edSignature="1QHuOS41qjgQv70aRI0ICHm1rXlisVgaFuTvVIfBx4YdQ+vsqIwZzXkdbPHp2MZWiHXWNn62S6ScqB7DQtjsDQ=="/>
+        </item>
+        <item>
             <title>1.11</title>
             <pubDate>Sat, 21 Nov 2026 14:51:27 +0100</pubDate>
             <sparkle:version>15</sparkle:version>
