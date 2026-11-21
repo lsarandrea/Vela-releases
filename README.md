@@ -32,13 +32,24 @@ distrazioni. Usi i tuoi abbonamenti, con i tuoi accessi, che restano sul tuo dis
 
 <br>
 
-<img src="assets/iphone-profili.png" width="300" alt="La schermata Chi sta guardando? di Vela">
+<img src="assets/mac-profili.png" width="820" alt="Vela per Mac: la schermata Chi sta guardando? con i profili di casa">
 
 </div>
 
 ---
 
 ## Funzioni
+
+<p align="center">
+  <img src="assets/mac-benvenuto.png" width="820" alt="Benvenuto in Vela: i servizi di streaming suggeriti da scegliere con un clic">
+  <br><sub>Al primo avvio scegli i tuoi servizi con un clic, tra quelli più usati nel tuo paese.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/mac-barra.png" width="820" alt="La barra di Vela: indietro, ricarica, Modalità Desktop, AirPlay, filtri, dati web e schermo intero">
+  <br><sub>La barra di ogni servizio: modalità Desktop, Tablet o Smartphone, AirPlay, filtri, schermo intero.</sub>
+</p>
+
 
 | | Gratis | Vela Pro |
 | --- | :---: | :---: |
