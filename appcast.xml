@@ -3,6 +3,46 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.15</title>
+            <pubDate>Thu, 26 Nov 2026 20:03:01 +0100</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li><b>Riprendi da dove eri</b>: ogni servizio si riapre sull&#x27;ultima pagina che stavi guardando.</li>
+<li><b>Scorciatoie da tastiera</b> (menu &quot;Servizi&quot;): ⌘1…⌘9 per i servizi, ⌘R ricarica, ⌘F cerca, ⌘P Picture in</li>
+</ul>
+<p>  Picture, ⌘⇧F nasconde l&#x27;interfaccia; la barra spaziatrice mette in pausa e fa ripartire il video. Tieni</p>
+<p>  premuto ⌘ per vedere i tasti direttamente sui pulsanti.</p>
+<ul>
+<li><b>Cerca nei servizi</b>: con la lente in alto scrivi un titolo e lo cerchi in YouTube, Netflix, Prime Video,</li>
+</ul>
+<p>  Disney+, Spotify, Twitch, Apple TV, Crunchyroll, Vimeo, Dailymotion e Plex.</p>
+<ul>
+<li><b>Pallino rosso</b> sul servizio che ti ha scollegato e chiede di accedere di nuovo.</li>
+<li><b>Profilo Bambini</b>: tempo massimo al giorno, orario di riposo e utilizzo degli ultimi 7 giorni (in Gestisci</li>
+</ul>
+<p>  profili). Un adulto con il PIN può concedere 30 minuti in più.</p>
+<ul>
+<li><b>Menu del Dock</b> con i servizi del profilo aperto.</li>
+<li><b>Picture in Picture automatico</b> (Generale → Riproduzione): il video continua nel mini player quando cambi</li>
+</ul>
+<p>  servizio o passi a un&#x27;altra app.</p>
+<ul>
+<li><b>Esporta e importa</b> profili e servizi in un file (Generale → Profili), senza PIN né accessi ai siti.</li>
+<li><b>Icone personalizzate</b> dei servizi: una lettera su un colore o un&#x27;immagine, in Modifica servizio.</li>
+</ul>
+<h2>Correzioni</h2>
+<ul>
+<li>I servizi senza titolo mostrano il nome del sito senza &quot;www.&quot;.</li>
+<li>Nelle Impostazioni il nome del profilo non appare più sempre selezionato.</li>
+</ul></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.15-beta.19/Vela.dmg" length="6349935" type="application/octet-stream" sparkle:edSignature="00cAkZAqQ54lFSM2Q8+ZqtVUP4oVbwxzgFYv6H1Cqqh3B2YwosK1xVnMLNEDg5DuVmSkHqoZ9f3lEimXSowQAg=="/>
+        </item>
+        <item>
             <title>1.14</title>
             <pubDate>Thu, 26 Nov 2026 19:53:28 +0100</pubDate>
             <sparkle:channel>beta</sparkle:channel>
