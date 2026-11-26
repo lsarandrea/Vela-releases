@@ -3,6 +3,52 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.16</title>
+            <pubDate>Thu, 26 Nov 2026 22:39:14 +0100</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li><b>Più account dello stesso servizio</b>: in Modifica servizio, &quot;Aggiungi un altro account&quot; crea un secondo</li>
+</ul>
+<p>  pulsante dello stesso sito (due Netflix, due YouTube…) con accessi separati, numerato 1, 2…</p>
+<ul>
+<li><b>Paese dei servizi</b>: in Aggiungi servizio scegli il paese (Italia, Regno Unito, Stati Uniti, Francia, Spagna,</li>
+</ul>
+<p>  Germania, Polonia, Russia, Cina) e vedi i servizi di quel paese, anche con Vela in un&#x27;altra lingua. Puoi avere</p>
+<p>  lo stesso sito due volte, per esempio YouTube Italia e YouTube Regno Unito: il secondo ha accessi separati e</p>
+<p>  ogni pulsante mostra la sigla del paese.</p>
+<ul>
+<li><b>Nuove lingue: tedesco, polacco e cinese semplificato</b>, con i servizi suggeriti dei rispettivi paesi (anche</li>
+</ul>
+<p>  per il profilo Bambini).</p>
+<ul>
+<li><b>Lingua per profilo</b>: ogni profilo sceglie la sua lingua nelle impostazioni del profilo, e cambia subito</li>
+</ul>
+<p>  senza riavviare Vela.</p>
+<ul>
+<li><b>Esporta e importa il singolo profilo</b> dalle impostazioni del profilo: il file contiene il profilo con i</li>
+</ul>
+<p>  suoi servizi; importando, i servizi che mancano si aggiungono al profilo. In Generale resta l&#x27;esportazione</p>
+<p>  di tutti i profili.</p>
+<ul>
+<li>I tasti delle scorciatoie (tenendo premuto ⌘) compaiono sotto i pulsanti, così l&#x27;icona resta visibile.</li>
+</ul>
+<h2>Correzioni</h2>
+<ul>
+<li>&quot;Riprendi da dove eri&quot; ricorda davvero l&#x27;ultima pagina anche su YouTube, Plex, Netflix e RaiPlay, che cambiano</li>
+</ul>
+<p>  pagina senza ricaricarla, e la salva subito (prima, chiudendo Vela durante un video, tornava alla pagina precedente).</p>
+<ul>
+<li>In Vela Pro il numero di dispositivi è quello della tua licenza (3 di serie, di più se ti sono stati concessi).</li>
+<li>Esportare profili e servizi sul Mac non blocca più Vela.</li>
+</ul></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.16-beta.20/Vela.dmg" length="6566304" type="application/octet-stream" sparkle:edSignature="N555WHZqiPY6tNcUJQLFWnDVx3VPz8H2+iqCW6qC1cgjkvdlK7XvhVBu0VQlU80dkuZOLpK/vouOQDVaTiTZAQ=="/>
+        </item>
+        <item>
             <title>1.15</title>
             <pubDate>Thu, 26 Nov 2026 20:03:01 +0100</pubDate>
             <sparkle:version>19</sparkle:version>
