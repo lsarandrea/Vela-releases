@@ -3,6 +3,43 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.13</title>
+            <pubDate>Thu, 26 Nov 2026 06:42:53 +0100</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li><b>Barra dei servizi</b> che scorre trascinandola (anche con rotella e trackpad sul Mac): tieni premuto un</li>
+</ul>
+<p>  servizio per spostarlo. Con pochi servizi i pulsanti occupano tutta la larghezza.</p>
+<ul>
+<li><b>Mini player</b> rifatto: solo il video, senza i comandi del sito, con i comandi di Vela (indietro e avanti</li>
+</ul>
+<p>  di 10 secondi, play/pausa).</p>
+<ul>
+<li><b>Nascondi l&#x27;interfaccia</b> con una nuova icona; in Impostazioni → Generale → Riproduzione puoi far</li>
+</ul>
+<p>  sparire le barre da sole durante i video (dopo 3, 5 o 10 secondi), senza che la pagina si sposti.</p>
+<ul>
+<li><b>Tutorial</b> guidato alla prima apertura di ogni profilo, riavviabile dal menu del profilo.</li>
+<li><b>Salta pubblicità integrata (sperimentale)</b>: prova a togliere gli spot dentro i video.</li>
+<li>Rotella del mouse sul video adattato per regolare il volume (Mac).</li>
+</ul>
+<h2>Correzioni</h2>
+<ul>
+<li>Adatta player: su YouTube e Pluto TV restano i comandi del player e il video non resta nero.</li>
+<li>Il mini player non chiude più Vela e non cambia aspetto quando muovi il mouse.</li>
+<li>Il pulsante a schermo intero dei player torna di nuovo alla visione normale.</li>
+<li>La barra in alto di Vela sul Mac serve solo a spostare la finestra; Plex non la rende più bianca.</li>
+<li>Lucchetto dei profili con PIN visibile correttamente nel menu.</li>
+</ul></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.13-beta.17/Vela.dmg" length="5682480" type="application/octet-stream" sparkle:edSignature="ELxvTeCbvibt83AEhKgUWMqW5FIDxkTWTfn0JWT4yrmie7l40tOjYf+JyuaDqOd2YNOIG4N9AZDirgZ2Nr8JDQ=="/>
+        </item>
+        <item>
             <title>1.12</title>
             <pubDate>Sat, 21 Nov 2026 15:15:14 +0100</pubDate>
             <sparkle:version>16</sparkle:version>
@@ -88,47 +125,6 @@
 </ul></body></html>
 ]]></description>
             <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.11-beta.14/Vela.dmg" length="5638025" type="application/octet-stream" sparkle:edSignature="wG/j1I7agzycrxkNBk6VmZPTRFnnympbCoFr6cyHvrno97cX4mqpyY7/ubW7ODsfE+NI7EaG71MGKB+hzTB0BQ=="/>
-        </item>
-        <item>
-            <title>1.11</title>
-            <pubDate>Sat, 21 Nov 2026 14:23:42 +0100</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
-<ul>
-<li><b>Versioni beta</b>: in Generale → Aggiornamenti puoi attivare <b>Ricevi le versioni beta</b> per</li>
-</ul>
-<p>  provare le novità prima dell&#x27;uscita ufficiale.</p>
-<ul>
-<li>La pagina Aggiornamenti mostra anche il numero di build della versione installata.</li>
-</ul>
-<h2>Correzioni</h2>
-<ul>
-<li>Sul Mac eliminare un profilo o rimuovere un servizio bloccava la finestra: ora l&#x27;avviso si chiude e</li>
-</ul>
-<p>  il foglio si chiude correttamente.</p></body></html>
-]]></description>
-            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.11-beta.13/Vela.dmg" length="5621334" type="application/octet-stream" sparkle:edSignature="ff+F6/riCTl1D5+7jLqRQMjGO9BZ0rVx71b7Y2RWs20qMR3HE8Zo8ss7Izv8AbVN3IzXTD/FktDSLRx/zGZaAg=="/>
-        </item>
-        <item>
-            <title>1.11</title>
-            <pubDate>Sat, 21 Nov 2026 14:13:50 +0100</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
-<ul>
-<li><b>Versioni beta</b>: in Generale → Aggiornamenti puoi attivare <b>Ricevi le versioni beta</b> per</li>
-</ul>
-<p>  provare le novità prima dell&#x27;uscita ufficiale.</p>
-<ul>
-<li>La pagina Aggiornamenti mostra anche il numero di build della versione installata.</li>
-</ul></body></html>
-]]></description>
-            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.11-beta.12/Vela.dmg" length="5614528" type="application/octet-stream" sparkle:edSignature="nX2PLY+6KvONRxkafHp6Qg/Z0csshSUNARFl7KzwI03Y+wP/5WlqivE/CBW+/J0nJOxa2H8izU86d3l7/bnuCQ=="/>
         </item>
         <item>
             <title>1.10</title>
