@@ -3,6 +3,68 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.17</title>
+            <pubDate>Fri, 27 Nov 2026 23:25:20 +0100</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Novità</h2>
+<ul>
+<li><b>Player di sistema più completo</b>: nella schermata di blocco, nel Centro di Controllo e nella Dynamic Island il</li>
+</ul>
+<p>  video mostra titolo, servizio e copertina, con i salti di 10 secondi.</p>
+<ul>
+<li><b>Novità</b>: nel menu del profilo una pagina con le funzioni nuove di ogni versione; un pallino rosso sul profilo</li>
+</ul>
+<p>  avvisa quando ce ne sono.</p>
+<ul>
+<li><b>Cambia profilo</b>: nel menu del profilo riapre &quot;Chi sta guardando?&quot;, con &quot;Torna indietro&quot; per tornare dov&#x27;eri</li>
+</ul>
+<p>  (il servizio aperto resta com&#x27;era).</p>
+<ul>
+<li><b>&quot;Chi sta guardando?&quot;</b>: sotto i suggerimenti ci sono Passa a Vela Pro, Fai una donazione e, sul Mac, Chiudi Vela.</li>
+<li><b>Profili da sincronizzare</b> (Vela Pro): tutti, solo il principale o quelli che scegli; gli altri restano solo</li>
+</ul>
+<p>  sul dispositivo.</p>
+<ul>
+<li><b>Guida rinnovata</b>, divisa in sezioni e con le funzioni nuove; tutorial e suggerimenti aggiornati.</li>
+<li><b>Screenshot nei feedback</b>: fino a 3 immagini (al massimo 5 MB ciascuna).</li>
+<li><b>Dati di diagnostica</b> (Generale → App): solo gli errori anonimi, anche le funzioni usate, oppure niente. Mai</li>
+</ul>
+<p>  siti, titoli o accessi.</p>
+<ul>
+<li><b>Tema Vetro</b>: la barra in alto non copre più i menu dei siti (per esempio YouTube); in basso il sito scorre sotto</li>
+</ul>
+<p>  il vetro, più trasparente.</p>
+<ul>
+<li><b>iPhone</b>: il pulsante per nascondere l&#x27;interfaccia è sempre nella barra; Desktop, Tablet o Smartphone si sceglie</li>
+</ul>
+<p>  dal menu &quot;…&quot;.</p>
+<h2>Correzioni</h2>
+<ul>
+<li>Mac: con il Picture in Picture automatico, passando a un&#x27;altra app la finestra di Vela sparisce (prima restava</li>
+</ul>
+<p>  nera) e il mini player si apre più grande, in proporzione allo schermo; ricorda la dimensione che gli dai.</p>
+<ul>
+<li>Le barre nascoste in automatico e il pulsante dell&#x27;occhio non ricompaiono più per un tocco accidentale al mouse;</li>
+</ul>
+<p>  sul Mac l&#x27;occhio compare muovendo il mouse o tenendo premuto ⌘.</p>
+<ul>
+<li>iPhone e iPad: uscendo da Vela con un video in riproduzione il Picture in Picture automatico parte anche dalla</li>
+</ul>
+<p>  pagina, e il video non resta più in pausa.</p>
+<ul>
+<li>YouTube con &quot;Salta pubblicità integrata&quot;: il video non resta più nero o in errore; gli spot vanno a 16x senza</li>
+</ul>
+<p>  audio e, se compare l&#x27;avviso sui blocchi degli annunci, la pagina si ricarica da sola.</p>
+<ul>
+<li>Gli interruttori attivi si vedono anche nel tema Vetro; i pulsanti della barra in basso hanno tutti lo stesso aspetto.</li>
+</ul></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.17-beta.21/Vela.dmg" length="6849420" type="application/octet-stream" sparkle:edSignature="sv0AixAKdTQjQmM6r9JVVmnwHh4BXDfJEqPH/l9q1jCsTCUmStMgPLV+ttcaZ1YIRFQJu3+1LcFKgzB2CXEGCA=="/>
+        </item>
+        <item>
             <title>1.16</title>
             <pubDate>Thu, 26 Nov 2026 22:39:14 +0100</pubDate>
             <sparkle:version>20</sparkle:version>
