@@ -3,6 +3,24 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.20</title>
+            <pubDate>Sat, 28 Nov 2026 14:02:58 +0100</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Correzioni</h2>
+<ul>
+<li>I servizi che lasci restano davvero fermi: un video o uno spot (per esempio la pubblicità di YouTube) non parte più da solo in sottofondo mentre guardi un altro servizio. Fa eccezione il video che hai mandato nel riquadro del Picture in Picture.</li>
+<li>iPad: &quot;PiP al cambio&quot; non c&#x27;è più. Con Vela aperta il riquadro di sistema fermava l&#x27;immagine del video e a volte bloccava i tocchi; sull&#x27;iPad, come su iPhone, il riquadro parte con il pulsante PiP o uscendo da Vela. Sul Mac resta, con il mini player.</li>
+<li>iPad: dopo aver usato il Picture in Picture l&#x27;interfaccia di Vela non resta più bloccata ai tocchi; premere più volte di fila il pulsante PiP non la blocca più.</li>
+<li>iPhone e iPad: uscendo da Vela con un video in riproduzione il riquadro parte anche quando iOS aveva appena messo in pausa il video; se il riquadro non si apre, il video si ferma (non resta solo l&#x27;audio) e riparte tornando in Vela.</li>
+<li>Il pulsante &quot;Schermo&quot; della barra in basso ha lo stesso aspetto degli altri.</li>
+</ul></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.20-beta.24/Vela.dmg" length="6919128" type="application/octet-stream" sparkle:edSignature="elTmGXpFqMSQtXlcbQMZmLy/tpxWJauvPVpryuIGdtNNIUCUftemQcToSRBiS+bQBC99d2J1eYwfjrfxqBWnCw=="/>
+        </item>
+        <item>
             <title>1.19</title>
             <pubDate>Sat, 28 Nov 2026 01:11:06 +0100</pubDate>
             <sparkle:channel>beta</sparkle:channel>
