@@ -3,6 +3,20 @@
     <channel>
         <title>Vela</title>
         <item>
+            <title>1.19</title>
+            <pubDate>Sat, 28 Nov 2026 01:11:06 +0100</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html><body style="font-family:-apple-system;font-size:13px"><h2>Correzioni</h2>
+<ul>
+<li>I servizi che lasci restano davvero fermi: un video o uno spot (per esempio la pubblicità di YouTube) non parte più da solo in sottofondo mentre guardi un altro servizio. Fa eccezione il video che hai mandato nel riquadro del Picture in Picture.</li>
+</ul></body></html>
+]]></description>
+            <enclosure url="https://github.com/lsarandrea/Vela-releases/releases/download/v1.19-beta.23/Vela.dmg" length="6917899" type="application/octet-stream" sparkle:edSignature="V5KOxNOzmmveCRVgVP1HnbO3bVv7CktJ3UjFtbdxn7hMaE11RsCHD4n4qXfmOHSB5EzPF1jzO6D0KI1rUAuoDw=="/>
+        </item>
+        <item>
             <title>1.18</title>
             <pubDate>Sat, 28 Nov 2026 00:40:27 +0100</pubDate>
             <sparkle:version>22</sparkle:version>
